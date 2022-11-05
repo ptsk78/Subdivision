@@ -1,4 +1,4 @@
-# [Subdivision algorithm](https://opus4.kobv.de/opus4-zib/frontdoor/deliver/index/docId/177/file/SC-95-11.pdf) using [PyOpencl](https://github.com/inducer/pyopencl)
+# [Subdivision algorithm](https://link.springer.com/article/10.1007/s002110050240) using [PyOpencl](https://github.com/inducer/pyopencl)
 
 Unlike subdivision algorithm, this subdivides in all dimensions at the same time. So minor changes in comparison with [Approximation of box dimension of attractors using the subdivision algorithm](https://www.tandfonline.com/doi/abs/10.1080/14689360500141772). Now with int64 support, you can theoretically go to ((r=20)+1)*(dim=3)=63<64, which is quite furher than the dimension paper.
 
