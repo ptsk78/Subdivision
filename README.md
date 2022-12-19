@@ -72,7 +72,7 @@ Halvorsen attractor
 
 ![halvorsen](./images/halvorsen_0008.png)
 
-Or in 3D with [Anaglyph 3d glasses needed](https://en.wikipedia.org/wiki/Anaglyph_3D):
+Or in 3D with [Anaglyph 3d glasses needed](https://en.wikipedia.org/wiki/Anaglyph_3D) (red / cyan glasses):
 
 ![halvorsen](./images/01.png)
 
