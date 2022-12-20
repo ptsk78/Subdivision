@@ -1,6 +1,6 @@
 # [Subdivision algorithm](https://link.springer.com/article/10.1007/s002110050240) using [PyOpencl](https://github.com/inducer/pyopencl)
 
-Unlike subdivision algorithm, this software package subdivides in all dimensions at the same time. So minor changes in comparison with [Approximation of box dimension of attractors using the subdivision algorithm](https://www.tandfonline.com/doi/abs/10.1080/14689360500141772). Now with int64 support, you can theoretically go to ((r=20)+1)*(dim=3)=63<64, which is quite furher than the dimension paper.
+Unlike subdivision algorithm, this software package subdivides in all dimensions at the same time. So minor differences in comparison with [Approximation of box dimension of attractors using the subdivision algorithm](https://www.tandfonline.com/doi/abs/10.1080/14689360500141772). Now with int64 support, you can theoretically go to ((r=20)+1)*(dim=3)=63<64, which is quite furher than the dimension paper.
 
 Chaotic attractor
 
